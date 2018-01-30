@@ -1,5 +1,5 @@
 body {
-	background: url(bg4.jpg) no-repeat;
+	background: url(bg.jpeg) no-repeat;
 	background-color: green;
 	background-position: center fixed;
 	font-family: serif;
@@ -34,7 +34,7 @@ h2 {
 }
 .me {
 	height: 150px;
-	border-radius: 0%;
+	border-radius: 10%;
 	border-style: solid;
 	border-color: orange;
 	margin-top: 40px;
