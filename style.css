@@ -1,0 +1,45 @@
+body {
+	background: url(bg4.jpg) no-repeat;
+	background-color: green;
+	background-position: center fixed;
+	font-family: serif;
+	text-align: center;
+}
+
+h1 {
+	color: black;
+	font-size: 70px;
+	font-stretch:normal;
+	margin-bottom: 0;
+	font-family: 'Berkshire Swash', cursive;
+
+	}
+
+h2 {
+	color:green;
+	font-size: 20px;
+	margin-top: 0;
+
+}
+
+
+.bio{
+	width: 500px;
+	color: darkred;
+	font-size: 18px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-family: 'Supermercado One', cursive;
+}
+.me {
+	height: 150px;
+	border-radius: 0%;
+	border-style: solid;
+	border-color: orange;
+	margin-top: 40px;
+}
+
+hr{
+	width: 100px;
+}
